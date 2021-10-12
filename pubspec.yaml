@@ -31,13 +31,13 @@ dependencies:
   flutter:
     sdk: flutter
   get_storage: ^2.0.3
+  get: ^4.3.8
 
 dev_dependencies:
   build_runner: ^2.1.4
   flutter_lints: ^1.0.0
   flutter_test:
     sdk: flutter
-  get: ^4.3.8
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
